@@ -1,5 +1,5 @@
 # tested with python 3.7
-numpy==1.18.3
+numpy==1.22.0
 scipy==1.4.1
 opencv-contrib-python
 pandas==1.0.3
